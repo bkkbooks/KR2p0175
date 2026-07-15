@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0175/v1
 canonical_location: https://kanripo.org/bkk/KR2p0175/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 語書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0175_001.yaml, hash: 'sha256:715daf58fe38c4a81487ae77bc89427f5414e50a75f884428181e1fe6c2e1200'}
+  - {seq: 1, filename: KR2p0175_001.yaml, hash: 'sha256:7d0e0ad423a0bad634d6397459b6a40b6749c34e4326721c67cffffa6de9756b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0175_001.markers.yaml, hash: 'sha256:e2520baa759e95f35e6796e4f0e9591abea839be2817ca510bc5880ce9d7e63a'}
+  - {seq: 1, role: markers, filename: assets/KR2p0175_001.markers.yaml, hash: 'sha256:cc8bfda246c07f16be8971a7e1ac6911104bf618b9b0eed5bed0d13ca75ac315'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 睡虎地秦墓竹簡語書
   type: section
   level: 1
-hash: sha256:5196e08b2d0cd624c969e0daaf992a2c376e54b3fc7ce44e29e73ee543eddade
+hash: sha256:3d83017e7b2e9b6b366b0378253a39bb71469aa55a74811258df4bfa8a3f0e47
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
